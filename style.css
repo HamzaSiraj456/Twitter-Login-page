@@ -1,0 +1,58 @@
+body{
+    margin: 0PX;
+    padding: 0PX;
+    background-image: url(https://img.freepik.com/premium-photo/tiktok-minimal-logo-tiktok-clean-background_125322-8.jpg);
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    padding-left: 20px;
+    margin-top: 10px;
+    color: #4db4f9 !important;
+}.name{
+margin-top: 25px;
+padding-left: 20px;
+}
+
+.container{
+    border: 1px solid black;
+    width: 400px;
+    height: 450px;
+    justify-content: center;
+    margin-left:450px ;
+    align-items: center;
+    margin-top: 50px;
+}
+.text{
+    padding: 25px;
+    width: 90%;
+    font-size: medium;
+    margin-top: 15px;
+    margin-left: 20px;
+    border-radius: 5px;
+    
+}
+.password{
+    padding: 25px;
+    width: 90%;
+    font-size: medium;
+    margin-top: 15px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.btn{
+    padding: 15px;
+    width: 90%;
+    font-size: large;
+    margin-top: 15px;
+    margin-left:20px;
+    border-radius: 25px;
+    background-color:rgb(135, 178, 235) ;
+}
+.massage{
+    font-size: large;
+    margin-left: 60px;
+    margin-top: 40px;
+
+    color: rgb(135, 228, 235);
+}
